@@ -1,0 +1,34 @@
+{
+  "name": "svg_logo_maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest",
+    "dev-watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garciajv86/SVG-Logo-Maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garciajv86/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/garciajv86/SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "nodemon": "^2.0.22"
+  }
+}
