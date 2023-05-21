@@ -2,14 +2,14 @@
   "name": "svg_logo_maker",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "directories": {
     "example": "examples",
     "lib": "lib"
   },
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "jest",
     "dev-watch": "jest --watch"
   },
