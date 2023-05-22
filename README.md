@@ -44,7 +44,7 @@ To use this app first navigate to the SVG_LOGO_MAKER directory that holds the in
 ## License
 
 ![badmath](https://img.shields.io/badge/License-MIT-yellow)<br>
-This project is protected under the [MIT](https://choosealicense.com/mit) License.
+This project is protected under the [MIT](https://choosealicense.com/licenses/mit/) License.
 
 ## Badges
 
