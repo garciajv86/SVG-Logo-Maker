@@ -18,8 +18,8 @@ This project is a SVG logo maker app that provides a wizard that walks the user 
 - [API](#api)
 
 ## Link
-Still need to include the link<br>
-[Sample SVG_Logo_Maker Link]()
+Below is a walkthrough video link on how the program works:<br>
+[Demo SVG_Logo_Maker Link](https://drive.google.com/file/d/1qmqkw3TaPqFZQuPUtu3Di1A6sD1tvohj/view)
 
 ## ScreenShot
 
